@@ -1,4 +1,4 @@
-# Copilot Instructions for GasSouth.Logging
+# Copilot Instructions
 
 description: >
   Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman
