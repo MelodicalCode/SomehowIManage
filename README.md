@@ -1,6 +1,6 @@
 # SomehowIManage
 
-`manage.ps1` is a local orchestration script for multi-project .NET development. It helps you:
+`manage.ps1` is a local orchestration script for a microservice .NET development. It helps you:
 
 - Start/stop APIs by project, group, or entire stack
 - Manage dependency-aware startup order
